@@ -1,0 +1,15 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"R6,R1,R2,R5,R4";"0603R";5;"10k";;;
+2;"H3,H4,H1,H2";"HOLE_3.2mm";4;"HOLE_3.2mm";;;
+3;"K1,K4";"easyC-connector";2;"easyC-SMD";;;
+4;"C4,C3";"0603C";2;"2u2";;;
+5;"U2";"SOT-363";1;"NMOS-DUAL";;;
+6;"U1";"BMP388";1;"BMP388";;;
+7;"JP5,JP2";"SMD_JUMPER";2;"SMD_JUMPER";;;
+8;"JP3,JP1";"SMD_JUMPER_3_PAD_TRACE";2;"SMD_JUMPER_3_PAD_TRACE";;;
+9;"C2,C1";"0603C";2;"100n";;;
+10;"U3";"SOT-23-5";1;"SE5218ALG";;;
+11;"JP4";"SMD-JUMPER-CONNECTED_TRACE_SOLDERMASK";1;"SMD-JUMPER-CONNECTED_TRACE_SOLDERMASK";;;
+12;"K3";"HEADER_MALE_1X1";1;"HEADER_MALE_1X1";;;
+13;"K2";"HEADER_MALE_4X1";1;"HEADER_MALE_4X1";;;
+14;"R3";"0603R";1;"100k";;;
