@@ -1,5 +1,5 @@
-SKU: 
-Full product name: 
+SKU: 333316
+Full product name: Pressure & temperature sensor BMP388 breakout 
 Country of origin: Croatia
-HS tariff code: 
-EAN/UPC barcode: 
+HS tariff code: 85340090
+EAN/UPC barcode: 732388653706
